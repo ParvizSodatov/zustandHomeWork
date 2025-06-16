@@ -62,7 +62,7 @@ export default function ZustandAsynch() {
 					justifyContent: 'space-around',
 				}}
 			>
-				<h1 style={{}}>TodoZustandAsynch</h1>
+				<h1 style={{}}>TodoZustandAsynch .</h1>
 				<div
 					style={{ display: 'flex', alignItems: 'center', gap: '10px 10px' }}
 				>
